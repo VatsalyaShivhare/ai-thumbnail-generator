@@ -1,0 +1,1 @@
+# ai-thumbnail-generator
